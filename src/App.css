@@ -1,0 +1,92 @@
+.calculator-container {
+  width: 430px;
+  height: 560px;
+  background-color: #33334d;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+  border-radius: 10px;
+}
+
+.brand-name {
+  color: white;
+  margin-left: 20px;
+  padding-top: 20px;
+  font-size: 20px;
+  display: block;
+}
+
+.calculator-screen {
+  font-size: 50px;
+  width: 380px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #999966;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  color: black ;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.button {
+  background-color: white;
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 10px;
+  border: 2px solid #808080;
+  font-weight: bold;
+  color:black;
+}
+
+.bg-green {
+  background-color: #ff5233;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  height: 25px;
+  width: 60px;
+  margin: 5px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+  border: 2px solid #808080;
+  font-weight: bold;
+  padding-top: 8px;
+}
+
+.bg-red {
+  background-color: rgb(13, 121, 13);
+  color: white;
+  padding-top: 8px;
+}
+
+.bg-green1 {
+  background-color: #ff5233;
+  color: white;
+}
+
+.bg-blue {
+  background-color: #131d8d;
+  color: white;
+}
+
+.heading {
+  padding-left: 150px;
+}
+.btn-3{
+  background-color: #33334d;
+  color:#33334d;
+}
